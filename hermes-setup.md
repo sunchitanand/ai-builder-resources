@@ -1,8 +1,8 @@
 # Hermes Agent Setup Guide
 
-You commented "HERMES" — here's the full framework for managing an AI agent like a new hire.
+A practical framework for managing an AI agent like a new hire.
 
-The core idea: nobody teaches you how to MANAGE an AI agent. The Five Pillars (from Nate Herk) give it structure.
+Nobody teaches you how to MANAGE an autonomous agent once it's running. The Five Pillars (from Nate Herk's setup guide) give it structure.
 
 ---
 
