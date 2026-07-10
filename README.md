@@ -6,6 +6,7 @@ Actionable frameworks for building with AI agents. Each guide is a standalone pl
 
 | Keyword | Guide | What you'll learn |
 |---------|-------|-------------------|
+| WORK | [ChatGPT Work — Full Setup Guide](work.md) | How to set up ChatGPT Work as an autonomous agent — plugins, scheduled tasks, and Computer Use from day one |
 | RATCHET | [The Complexity Ratchet](ratchet.md) | How to use tests as one-way quality gates so your AI project never regresses |
 | SKILLIFY | [Meta-Prompting & Skillify](skillify.md) | How to build a self-generating skill system that turns repeated tasks into permanent infrastructure |
 | SYSTEMS | [The Systems-First Framework](systems.md) | The 6-step approach to building durable systems instead of one-off prompts |
