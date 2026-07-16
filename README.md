@@ -8,6 +8,11 @@ Actionable frameworks for building with AI agents. Each guide is a standalone pl
 |---------|-------|-------------------|
 | RATCHET | [The Complexity Ratchet](ratchet.md) | How to use tests as one-way quality gates so your AI project never regresses |
 | SKILLIFY | [Meta-Prompting & Skillify](skillify.md) | How to build a self-generating skill system that turns repeated tasks into permanent infrastructure |
+| SYSTEMS | [The Systems-First Framework](systems.md) | The 6-step approach to building durable systems instead of one-off prompts |
+| HERMES | [Hermes Agent Setup Guide](hermes-setup.md) | How to set up an always-on AI agent that lives across your messaging apps |
+| BRAIN | [Claude Code's Built-In Second Brain](second-brain.md) | The 4 pieces that turn Claude Code into a persistent second brain for your work |
+| UNKNOWNS | [Finding Your Unknowns](unknowns.md) | A framework for surfacing what you don't know so the AI can collaborate better |
+| COWORK | [Claude Cowork — The Full Breakdown](cowork.md) | What changed with Claude Cowork's mobile/cloud release and how to use it |
 | TASTE | [The Taste Index](taste.md) | How to give an AI agent judgment instead of just more memory — capture only what carries signal |
 
 More guides added weekly.
