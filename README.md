@@ -19,7 +19,5 @@ Actionable frameworks for building with AI agents. Each guide is a standalone pl
 | GRAPH | [From Loops to Graphs](graph.md) | Why your agent loop is one worker in a bigger team — the org graph (who exists) vs the work graph (what's happening now) |
 | AGENTOS | [The Agent OS](agentos.md) | Give every agent decision one owner — code, the model, or you — so your graph stops failing faster in parallel |
 | MIGRATE | [Rewriting a Codebase with AI](migrate.md) | The 6-step process Anthropic uses to port a million lines between languages in weeks — build the judge first, fix the loop not the code |
-| STATE | [Your Agent Is a State Machine](state.md) | The one function agent frameworks resell you — `(state, event) -> nextState` in a switch — plus a copy-paste starter and the two free guarantees you get for writing it yourself |
-| ROOK | [When the Launchpad Becomes the Payload](rook.md) | Hop Aero's rocket launches from a 40-ft shipping container — why deleting the fixed base beats optimizing the step, and the un-fakeable-receipt ladder that made an implausible claim credible |
 
 More guides added weekly.
